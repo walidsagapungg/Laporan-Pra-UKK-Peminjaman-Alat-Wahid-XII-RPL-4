@@ -193,6 +193,9 @@ Untuk masalah teknis, silakan:
 
 Sistem ini adalah project pembelajaran open source.
 
----
+   **username dan password:**
+   - admin : admin123
+   - petugas : petugas12
+   - peminjam : peminjam123
 
 **Selamat menggunakan Sistem Peminjaman Alat Elektronik!** 🎉
